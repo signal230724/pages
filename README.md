@@ -1,2 +1,2 @@
 # pages
-github pages demo
+[demo](url+"love.html)
